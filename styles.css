@@ -69,9 +69,9 @@ body {
   border: 1px solid hsl(0, 36%, 90%);
   background: var(--Gradient-2);
   outline: none;
-  /* background-image: url(images/icon-error.svg);
+  /* background-image: url(images/icon-error.svg);*/
   background-repeat: no-repeat;
-  background-position: 210px;*/
+  background-position: 210px;
 }
 
 .email_input::placeholder {
